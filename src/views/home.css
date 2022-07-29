@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+.login-form{
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 50%;
+  text-align: center;
+  background-color: #f4f2f2;
+  box-shadow: 5px 5px 5px #ccc;
+}
+.username{
+  padding: 0rem 3rem 0rem 3rem;
+}
